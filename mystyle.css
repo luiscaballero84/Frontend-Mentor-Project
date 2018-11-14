@@ -195,7 +195,7 @@ Aqui comienza la pagina grande
 =======
 */
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1375px) {
   body {
     background-color: white;
   }
