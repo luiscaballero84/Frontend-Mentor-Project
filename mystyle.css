@@ -175,6 +175,8 @@ a {
 color:white; 
 }
 
+
+
 a:visited {
 	color: white;
 	font-size: 0.9em;
@@ -253,6 +255,22 @@ h2 {
 	float:left;
 	
 }
+	
+	a {
+color:white; 
+}
+
+
+
+a:visited {
+	color: white;
+	font-size: 0.9em;
+}
+
+a:hover {
+	color: #ff52bf;
+	text-decoration: none;
+}
 
 .button.button-pink-register{
 	width: 38%;
@@ -271,17 +289,7 @@ h2 {
   	border-style: solid;
 
 	}
-	/*
-	border: 2px solid;
-	border-color: #ff52bf;
-}*/
 
-/*
-.row.register {
-	width: 100%;
-	margin: 0 auto;
-}
-*/
 
 
 
