@@ -132,17 +132,7 @@ h2 {
 
 }
 
-/*
-.row {
-	margin-left:0px;
-	margin-right: 0px;
-} */
 
-/*
-.col-sm {
-	margin-top: 10%;
-}
-*/
 
 
 .copyright {
@@ -179,6 +169,10 @@ i {
 	font-family: "Open Sans";
 	margin-top: 20px;
 	margin-left: 15px;
+}
+
+a {
+color:white; 
 }
 
 a:visited {
